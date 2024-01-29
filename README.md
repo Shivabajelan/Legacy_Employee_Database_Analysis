@@ -6,11 +6,11 @@ The project is divided into three main parts:
 
 ## Part 1: Data Modelling
 Inspected the CSV files and created an Entity Relationship Diagram (ERD) of the tables using QuickDBD.
-image
+
 
 ## Part 2: Data Engineering
-Created a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints.
-Imported each CSV file into its corresponding SQL table.
+##### 1.Created a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints.
+##### 2.Imported each CSV file into its corresponding SQL table.
 ## Part 3: Data Analysis
 Performed various SQL queries to answer questions about the data, such as employee details, hire dates, managers, department information, and frequency counts of employee last names.
 Requirements
