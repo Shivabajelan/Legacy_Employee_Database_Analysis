@@ -6,6 +6,8 @@ The project is divided into three main parts:
 
 ## Part 1: Data Modelling
 Inspected the CSV files and created an Entity Relationship Diagram (ERD) of the tables using QuickDBD.
+![image](https://github.com/user-attachments/assets/6d8fb394-93d7-4ceb-8c6c-cf5a0a55ac42)
+
 
 
 ## Part 2: Data Engineering
