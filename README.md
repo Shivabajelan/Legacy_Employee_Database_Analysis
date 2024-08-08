@@ -1,5 +1,5 @@
 # Legacy_Employee_Database_Analysis
-This project is focused on analyzing the legacy employee data of Pewlett Hackard, a fictional company, during the 1980s and 1990s. The goal is to perform data modeling, data engineering, and data analysis on the available data from six CSV files.
+This project is focused on analysing the legacy employee data of Pewlett Hackard, a fictional company, during the 1980s and 1990s. The goal is to perform data modeling, data engineering, and data analysis on the available data from six CSV files.
 
 ## Project Overview
 The project is divided into three main parts:
